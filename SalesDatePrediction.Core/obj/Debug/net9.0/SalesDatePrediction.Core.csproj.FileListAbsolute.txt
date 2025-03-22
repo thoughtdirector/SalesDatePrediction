@@ -1,0 +1,11 @@
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\bin\Debug\net9.0\SalesDatePrediction.Core.deps.json
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\bin\Debug\net9.0\SalesDatePrediction.Core.dll
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\bin\Debug\net9.0\SalesDatePrediction.Core.pdb
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\SalesDatePrediction.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\SalesDatePrediction.Core.AssemblyInfoInputs.cache
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\SalesDatePrediction.Core.AssemblyInfo.cs
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\SalesDatePrediction.Core.csproj.CoreCompileInputs.cache
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\SalesDatePrediction.Core.dll
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\refint\SalesDatePrediction.Core.dll
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\SalesDatePrediction.Core.pdb
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Core\obj\Debug\net9.0\ref\SalesDatePrediction.Core.dll

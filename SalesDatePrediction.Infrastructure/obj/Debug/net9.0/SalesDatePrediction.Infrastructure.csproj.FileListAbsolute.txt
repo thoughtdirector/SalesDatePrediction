@@ -1,0 +1,17 @@
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\bin\Debug\net9.0\SalesDatePrediction.Infrastructure.deps.json
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\bin\Debug\net9.0\SalesDatePrediction.Infrastructure.runtimeconfig.json
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\bin\Debug\net9.0\SalesDatePrediction.Infrastructure.dll
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\bin\Debug\net9.0\SalesDatePrediction.Infrastructure.pdb
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\bin\Debug\net9.0\SalesDatePrediction.Core.dll
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\bin\Debug\net9.0\SalesDatePrediction.Core.pdb
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.csproj.AssemblyReference.cache
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.AssemblyInfoInputs.cache
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.AssemblyInfo.cs
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDat.FE9C1100.Up2Date
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.dll
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\refint\SalesDatePrediction.Infrastructure.dll
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.pdb
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\SalesDatePrediction.Infrastructure.genruntimeconfig.cache
+E:\Angel\Trabajo\TecnicalTest\Backend\SalesDatePrediction\SalesDatePrediction.Infrastructure\obj\Debug\net9.0\ref\SalesDatePrediction.Infrastructure.dll
