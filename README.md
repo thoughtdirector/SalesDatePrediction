@@ -38,7 +38,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone <REPOSITORY_URL>
+git clone https://github.com/thoughtdirector/sales-date-prediction-brackend
 cd SalesDatePrediction
 
 # Restore dependencies
