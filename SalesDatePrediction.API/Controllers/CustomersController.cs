@@ -16,7 +16,7 @@ namespace SalesDatePrediction.API.Controllers
         }
 
         [HttpGet("predictions")]
-        public async Task<ActionResult<IEnumerable<CustomerPredictionDto>>> GetPredictions([FromQuery] string nameFilter)
+        public async Task<ActionResult<IEnumerable<CustomerPredictionDto>>> GetPredictions([FromQuery] string nameFilter = "")
         {
             var predictions = await _customerRepository.GetCustomerPredictionsAsync(nameFilter);
             return Ok(predictions);

@@ -22,23 +22,24 @@ namespace SalesDatePrediction.Infrastructure.Repositories
             await connection.OpenAsync();
 
             var sql = @"
-                SELECT 
+                SELECT
+                    c.Custid, -- Incluir Custid
                     c.CompanyName AS CustomerName,
                     MAX(o.OrderDate) AS LastOrderDate,
-                    DATEADD(DAY, 
+                    DATEADD(DAY,
                         ISNULL((
-                            SELECT AVG(DATEDIFF(DAY, o1.OrderDate, o2.OrderDate)) 
+                            SELECT AVG(DATEDIFF(DAY, o1.OrderDate, o2.OrderDate))
                             FROM Sales.Orders o1
-                            JOIN Sales.Orders o2 
-                                ON o1.Custid = o2.Custid 
+                            JOIN Sales.Orders o2
+                                ON o1.Custid = o2.Custid
                                 AND o1.OrderDate < o2.OrderDate
                             WHERE o1.Custid = c.Custid
-                        ), 30), 
+                        ), 30),
                         MAX(o.OrderDate)
                     ) AS NextPredictedOrder
                 FROM Sales.Customers c
                 LEFT JOIN Sales.Orders o ON c.Custid = o.Custid
-                WHERE (@CustomerName IS NULL OR c.CompanyName LIKE @CustomerName + '%')
+                WHERE (@CustomerName IS NULL OR c.CompanyName LIKE '%' + @CustomerName + '%')
                 GROUP BY c.Custid, c.CompanyName
                 ORDER BY c.CompanyName;";
 
@@ -51,8 +52,8 @@ namespace SalesDatePrediction.Infrastructure.Repositories
             await connection.OpenAsync();
 
             var sql = @"
-                SELECT * 
-                FROM Sales.Customers 
+                SELECT *
+                FROM Sales.Customers
                 WHERE Custid = @CustomerId;";
 
             return await connection.QueryFirstOrDefaultAsync<Customer>(sql, new { CustomerId = customerId });
